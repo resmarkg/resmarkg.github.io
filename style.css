@@ -18,6 +18,8 @@ ul li a{color: #fff; text-decoration: none;}
 
 ul li a:hover{text-decoration: underline;}
 
+ul#listpoints li {color:red;}
+
 h1{color:#fff; text-align: center;margin-top: 150px;}
 
 p{color:#def; text-align: center; margin-top: 150px;}
